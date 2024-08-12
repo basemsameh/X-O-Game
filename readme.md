@@ -1,11 +1,12 @@
-# X/O Game
+# X/O Game (Tic-Tac-Toe)
 
 This is a simple X/O (Tic-Tac-Toe) game built using HTML, CSS, and JavaScript. The game allows two players to take turns marking spaces in a 3x3 grid, with the goal of getting three marks in a row either horizontally, vertically, or diagonally.
 
 ## Table of Contents
 
 - [Design](#design)
-- [Features](#features)
+- [Technology Used](#features)
+- [Features](#technology-used)
 - [How to Play](#how-to-play)
 - [Links](#links)
 - [Author](#author)
@@ -13,6 +14,12 @@ This is a simple X/O (Tic-Tac-Toe) game built using HTML, CSS, and JavaScript. T
 ## Design
 
 ![Design](./design/design.png)
+
+## Technology Used
+
+- HTML
+- CSS
+- JS
 
 ## Features
 
