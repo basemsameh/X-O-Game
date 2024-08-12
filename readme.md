@@ -36,5 +36,5 @@ This is a simple X/O (Tic-Tac-Toe) game built using HTML, CSS, and JavaScript. T
 ## Author
 
 - **Name**: [Basem](Basem)
-- **GitHub**: [Your GitHub Profile](https://github.com/basemsameh)
+- **GitHub**: [GitHub Profile](https://github.com/basemsameh)
 - **Linkedin**: [Linkedin](https://www.linkedin.com/in/basem-sameh-671b5b212/)
