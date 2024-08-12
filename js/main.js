@@ -24,7 +24,7 @@ const disableBtn = () => {
 
 const draw = () => {
   disableBtn();
-  messageBtn.innerHTML = `&#x1F60E; <br> Its Draw`
+  messageBtn.innerHTML = `&#x1F60E; <br> Its Draw`;
 }
 
 const winFunction = (letter) => {
@@ -73,6 +73,7 @@ btnRef.forEach(ele => {
 })
 
 function restart() {
+  count = 0;
   popupRef.classList.add("hide");
   btnRef.forEach(e => {
     e.disabled = false;
